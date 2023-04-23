@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1iY4Kn9l9AQDdA1smlnEcv7Vo7eywgkVZIzkod/rlvAw1n2PmKQqqNBZsQ2r7fHX1CABI20U6hlhQ9tReIg58w==",
+  "success": true,
+  "projectFilePath": "D:\\Developing\\GameProjects\\CrossEngine\\Logging\\Logging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msi PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\msi PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

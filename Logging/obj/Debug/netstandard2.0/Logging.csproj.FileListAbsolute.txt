@@ -1,0 +1,9 @@
+D:\Developing\2DGraphicEngine\Logging\bin\Debug\netstandard2.0\Logging.deps.json
+D:\Developing\2DGraphicEngine\Logging\bin\Debug\netstandard2.0\Logging.dll
+D:\Developing\2DGraphicEngine\Logging\bin\Debug\netstandard2.0\Logging.pdb
+D:\Developing\2DGraphicEngine\Logging\obj\Debug\netstandard2.0\Logging.csprojAssemblyReference.cache
+D:\Developing\2DGraphicEngine\Logging\obj\Debug\netstandard2.0\Logging.csproj.CoreCompileInputs.cache
+D:\Developing\2DGraphicEngine\Logging\obj\Debug\netstandard2.0\Logging.AssemblyInfoInputs.cache
+D:\Developing\2DGraphicEngine\Logging\obj\Debug\netstandard2.0\Logging.AssemblyInfo.cs
+D:\Developing\2DGraphicEngine\Logging\obj\Debug\netstandard2.0\Logging.dll
+D:\Developing\2DGraphicEngine\Logging\obj\Debug\netstandard2.0\Logging.pdb

@@ -1,0 +1,14 @@
+D:\Developing\2DGraphicEngine\Test Console\bin\Debug\Test Console.exe.config
+D:\Developing\2DGraphicEngine\Test Console\bin\Debug\Test Console.exe
+D:\Developing\2DGraphicEngine\Test Console\bin\Debug\Test Console.pdb
+D:\Developing\2DGraphicEngine\Test Console\obj\Debug\Test Console.csprojAssemblyReference.cache
+D:\Developing\2DGraphicEngine\Test Console\obj\Debug\Test Console.csproj.CoreCompileInputs.cache
+D:\Developing\2DGraphicEngine\Test Console\obj\Debug\Test Console.exe
+D:\Developing\2DGraphicEngine\Test Console\obj\Debug\Test Console.pdb
+D:\Developing\CrossEngine\Test Console\bin\Debug\Test Console.exe.config
+D:\Developing\CrossEngine\Test Console\bin\Debug\Test Console.exe
+D:\Developing\CrossEngine\Test Console\bin\Debug\Test Console.pdb
+D:\Developing\CrossEngine\Test Console\obj\Debug\Test Console.csprojAssemblyReference.cache
+D:\Developing\CrossEngine\Test Console\obj\Debug\Test Console.csproj.CoreCompileInputs.cache
+D:\Developing\CrossEngine\Test Console\obj\Debug\Test Console.exe
+D:\Developing\CrossEngine\Test Console\obj\Debug\Test Console.pdb

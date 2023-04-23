@@ -1,0 +1,9 @@
+#Every media file not allowed.
+*.png
+*.jpg
+*.bitmap
+*.psd
+*.mp4
+*.mp3
+*.wav
+*.ogg
